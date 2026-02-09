@@ -14,6 +14,14 @@ Senior Backend Engineer transitioning into Web3 Infrastructure
 ---
 
 ## 🌟 Featured Project
+📘 Solidity Reference
+A complete zero-to-pro Solidity / EVM roadmap, consolidating my studies from fundamentals to production-level concepts.
+
+Built with a security-first and production mindset, covering language fundamentals, patterns, common pitfalls, best practices, and a progressive set of projects.
+
+Includes a Quick Reference, curated resources, and a dedicated guide for the community.
+
+👉 https://github.com/wesleymassine/solidity-reference
 
 ### 🔒 SimpleToken – Production-Grade Smart Contract (Under review for public release)
 
