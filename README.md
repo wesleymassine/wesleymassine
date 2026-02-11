@@ -33,7 +33,7 @@ A complete smart contract solution built with a production mindset, demonstratin
 - Production readiness assessment (budget, timeline, operational risks)  
 - Extensive technical documentation covering security, architecture, and deployment
 
-👉 https://github.com/wesleymassine/simple-token
+👉 [https://github.com/wesleymassine/simple-token](https://github.com/wesleymassine/solidity-projects/tree/main/01-simple-token)
 
 ---
 
