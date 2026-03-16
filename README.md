@@ -8,12 +8,12 @@ Senior Backend Engineer — Distributed Systems | Golang · Python · Node.js ·
 ## 🔍 What I Work On
 
 **Distributed Systems & Backend**  
-Event-driven microservices, real-time trading infrastructure, resilient payment systems — Go, Python (FastAPI/asyncio), 
-Kafka, Redis Streams, gRPC, WebSockets, PostgreSQL, Kubernetes, GCP/AWS, OpenTelemetry.
+Event-driven microservices, real-time trading infrastructure, resilient payment systems 
+— Go, Python (FastAPI/asyncio), Kafka, Redis Streams, gRPC, WebSockets, PostgreSQL, Kubernetes, GCP/AWS, OpenTelemetry.
 
 **Web3 & Smart Contract Engineering**  
-Deepening expertise in EVM, Solidity, and on-chain infrastructure — a natural extension of my background in trading systems 
-and financial protocols.  
+Deepening expertise in EVM, Solidity, and on-chain infrastructure 
+— A natural extension of my background in trading systems and financial protocols.  
 Tools: Foundry, Hardhat, Ethers.js, Slither.
 
 ---
