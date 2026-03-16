@@ -1,61 +1,63 @@
 # Wesley Santos
 
-Senior Backend Engineer transitioning into Web3 Infrastructure  
-12+ years building production systems in fintech, trading platform & crypto
+Senior Backend Engineer — Distributed Systems | Golang · Python · Node.js · Web3  
+12+ years building high-throughput production systems in fintech, trading platforms and crypto infrastructure.
 
 ---
 
-## 🔍 Current Focus
+## 🔍 What I Work On
 
-- **Web3 & Smart Contract Engineering** — Solidity, Ethereum, EVM fundamentals  
-- **Backend & Infrastructure** — Go, Python, distributed systems, event-driven architecture  
-- **Applied AI for Developer Experience, Observability, and Decision Support**
+**Distributed Systems & Backend**  
+Event-driven microservices, real-time trading infrastructure, resilient payment systems — Go, Python (FastAPI/asyncio), 
+Kafka, Redis Streams, gRPC, WebSockets, PostgreSQL, Kubernetes, GCP/AWS, OpenTelemetry.
+
+**Web3 & Smart Contract Engineering**  
+Deepening expertise in EVM, Solidity, and on-chain infrastructure — a natural extension of my background in trading systems 
+and financial protocols.  
+Tools: Foundry, Hardhat, Ethers.js, Slither.
 
 ---
 
-## 🌟 Featured Project
-📘 Solidity Reference
-A complete zero-to-pro Solidity / EVM roadmap, consolidating my studies from fundamentals to production-level concepts.
+## 🌟 Featured Projects
 
-Built with a security-first and production mindset, covering language fundamentals, patterns, common pitfalls, best practices, and a progressive set of projects.
+### 📘 Solidity Reference
+A zero-to-production Solidity/EVM roadmap consolidating fundamentals, 
+patterns, security analysis, and production-readiness concepts.  
+Built with a security-first mindset — including attack vectors, 
+common pitfalls, and curated resources.  
+👉 github.com/wesleymassine/solidity-reference
 
-Includes a Quick Reference, curated resources, and a dedicated guide for the community.
+### 🔒 SimpleToken — Production-Grade Smart Contract
+Complete smart contract implementation with:
+- 47 tests · 100% coverage
+- Threat modeling across 10+ attack vectors
+- Architecture documentation with design trade-offs
+- Production readiness assessment (budget, timeline, operational risks)
 
-👉 https://github.com/wesleymassine/solidity-reference
-
-### 🔒 SimpleToken – Production-Grade Smart Contract (Under review for public release)
-
-A complete smart contract solution built with a production mindset, demonstrating strong engineering practices:
-
-- Full test suite (47 tests, 100% coverage)  
-- Security threat modeling (10+ attack vectors analyzed)  
-- Architecture documentation with design trade-offs  
-- Production readiness assessment (budget, timeline, operational risks)  
-- Extensive technical documentation covering security, architecture, and deployment
-
-👉 [https://github.com/wesleymassine/simple-token](https://github.com/wesleymassine/solidity-projects/tree/main/01-simple-token)
+👉 github.com/wesleymassine/solidity-projects/tree/main/01-simple-token
 
 ---
 
 ## 🚀 Engineering Principles
 
-- **Production-first mindset** — reliability, correctness, observability  
-- **Security & correctness over hype** — explicit threat modeling and mitigations  
-- **Clear documentation & rationale** — design decisions explained, not just implemented  
-- **End-to-end ownership** — from architecture to deployment and monitoring
+- **Production-first** — reliability, correctness, observability from day one
+- **Security by design** — explicit threat modeling, not afterthought
+- **End-to-end ownership** — architecture through deployment and monitoring
+- **Clear documentation** — design decisions explained, not just implemented
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Stack
 
-**Languages & Runtimes:** Go • Python • Node/typescript • Solidity  
-**Blockchain & Web3:** Ethereum • Web3.js • Ethers.js  
-**Systems & Infrastructure:** Kafka • WebSockets • Docker • SQL  
-**AI / Applied LLMs:** Developer experience • observability • decision support
+**Primary:** Go · Python (FastAPI, asyncio) · Node.js / TypeScript  
+**Messaging & Streaming:** Kafka · Redis Streams · RabbitMQ · gRPC  
+**Data:** PostgreSQL · BigQuery · Elasticsearch · Redis  
+**Cloud & Infra:** GCP (GKE, Pub/Sub) · AWS (ECS, SQS/SNS) · Kubernetes · Docker  
+**Observability:** OpenTelemetry · Prometheus · Grafana  
+**Web3:** Solidity · EVM · Foundry · Ethers.js  
 
 ---
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/wesleymassine  
-- GitHub: https://github.com/wesleymassine
+LinkedIn: linkedin.com/in/wesleymassine
