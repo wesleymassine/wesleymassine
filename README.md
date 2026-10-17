@@ -1,6 +1,6 @@
 # Wesley Santos
 
-Senior Backend Engineer — Distributed Systems | Golang · Python · Node.js · Web3  
+Senior Backend Engineer — Distributed Systems — Agentic software development | Golang · Python · Node.js · Web3  
 12+ years building high-throughput production systems in fintech, trading platforms and crypto infrastructure.
 
 ---
