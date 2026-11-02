@@ -13,7 +13,6 @@ Event-driven microservices, real-time trading infrastructure, resilient payment 
 — Go, Python (FastAPI/asyncio), Kafka, Redis Streams, gRPC, WebSockets, PostgreSQL, Kubernetes, GCP/AWS, OpenTelemetry.
 
 **Full-Stack AI Product Engineer**  
-
 UI/UX
 React, Next.js, Vite, TypeScript, Tailwind CSS
 
@@ -22,7 +21,6 @@ On-chain infrastructure and EVM/Solidity
 Tools: Foundry, Ethers.js, Slither.
 
 **AI-assisted engineering tools**  
-
 Agent harnesses with reusable skills, and a spec-driven approach covering architecture documentation, clear requirements, automated tests, and code reviews.
 
 ---
