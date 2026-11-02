@@ -1,70 +1,58 @@
 # Wesley Santos
 
-Senior Backend Engineer | Blockchain Developer | Full-Stack AI Product Engineer | Golang · Python · Nodejs · Typescript · Rust · Solidity
+**Senior Backend Engineer | Distributed Systems & Fintech | AI-Assisted Engineering | Go · Python · TypeScript | Web3 Infrastructure**
 
-12+ years building high-throughput production systems in fintech, trading platforms, crypto infrastructure and blockchain integration.
+Senior Software Engineer with 12+ years of experience, including six years building distributed financial systems, trading platforms, payment services, and crypto infrastructure.
 
----
-
-## 🔍 What I Work On
-
-**Distributed Systems & Backend**  
-Event-driven microservices, real-time trading infrastructure, resilient payment systems 
-— Go, Python (FastAPI/asyncio), Kafka, Redis, gRPC, WebSockets, PostgreSQL, Kubernetes, GCP/AWS, OpenTelemetry.
-
-**Full-Stack AI Product Engineer**  
-UI/UX
-React, Next.js, Vite, TypeScript, Tailwind CSS
-
-**Web3 & Smart Contract Engineering**  
-On-chain infrastructure and EVM/Solidity
-Tools: Foundry, Ethers.js, Slither.
-
-**AI-assisted engineering tools**  
-Agent harnesses with reusable skills, and a spec-driven approach covering architecture documentation, clear requirements, automated tests, and code reviews.
+I focus on building reliable, scalable systems and applying modern AI-assisted engineering practices to software development.
 
 ---
 
-## 🌟 Featured Projects
+## What I Build
 
-### 📘 Solidity Reference
-A zero-to-production Solidity/EVM roadmap consolidating fundamentals, 
-patterns, security analysis, and production-readiness concepts.  
-Built with a security-first mindset — including attack vectors, 
-common pitfalls, and curated resources.  
-👉 github.com/wesleymassine/solidity-reference
+- **Backend & Distributed Systems** — High-throughput services, event-driven architectures, real-time trading, payments, and financial integrations.
+- **AI-Assisted Engineering** — Agent harnesses, reusable skills, spec-driven development, automated verification, and code review workflows.
+- **Full-Stack Product Development** — APIs and user-facing applications using TypeScript, React, and Next.js.
+- **Web3 Infrastructure** — Smart contracts, EVM integrations, RWA tokenization, and blockchain-based financial applications.
 
-### 🔒 SimpleToken — Production-Grade Smart Contract
-Complete smart contract implementation with:
-- 47 tests · 100% coverage
-- Threat modeling across 10+ attack vectors
-- Architecture documentation with design trade-offs
-- Production readiness assessment (budget, timeline, operational risks)
+## Featured Projects
 
-👉 github.com/wesleymassine/solidity-projects/tree/main/01-simple-token
+**[Chainwatch — Ethereum & L2 Transaction Monitor](https://github.com/wesleymassine/chainwatch)**  
+Go-based blockchain monitoring pipeline designed for 500K addresses, with concurrent processing, Kafka publishing, and checkpoint recovery.
 
----
+**[AI Engineering — Agent Harness Template](https://github.com/wesleymassine/skills-project-template)**  
+Reusable development workflow for AI coding agents, combining specifications, test-first implementation, review gates, and CI enforcement.
 
-## 🚀 Engineering Principles
+**[High-Performance Trading Platform](https://github.com/wesleymassine/high-performance-trading)**  
+Event-driven trading architecture with microservices, Redis Streams, WebSockets, and TypeScript.
 
-- **Production-first** — reliability, correctness, observability from day one
-- **Security by design** — explicit threat modeling, not afterthought
-- **End-to-end ownership** — architecture through deployment and monitoring
-- **Clear documentation** — design decisions explained, not just implemented
+**[RWA Security Token — Solidity & Foundry](https://github.com/wesleymassine/rwa-security-token-foundry)**  
+Educational implementations inspired by ERC-3643 and ERC-1400, covering identity, compliance, tokenization, and smart contract testing.
+
+**[Solidity Reference](https://github.com/wesleymassine/solidity-reference)**  
+A practical Solidity/EVM reference covering development patterns, security, testing, and gas optimization.
 
 ---
 
-## 🛠️ Stack
+## Engineering Principles
 
-**Main Stack:** Go · Python (FastAPI, asyncio) · Node.js / TypeScript  
-**Messaging & Streaming:** Kafka · Redis Streams · RabbitMQ · gRPC  
-**Data:** PostgreSQL · BigQuery · Elasticsearch · Redis  
-**Cloud & Infra:** GCP (GKE, Pub/Sub) · AWS (ECS, SQS/SNS) · Kubernetes · Docker  
+- Reliability, correctness, and observability by design.
+- Security-first development and automated testing.
+- Clear architecture, documented trade-offs, and end-to-end ownership.
+- AI-assisted workflows with explicit specifications and verifiable results.
+
+## Tech Stack
+
+**Backend:** Go · Python · Node.js · TypeScript  
+**Distributed Systems:** Kafka · Redis · RabbitMQ · gRPC · PostgreSQL  
+**Infrastructure:** AWS · GCP · Kubernetes · Docker  
 **Observability:** OpenTelemetry · Prometheus · Grafana  
-**Web3:** Solidity · Rust · EVM · Foundry · Ethers.js  
+**AI Engineering:** Claude Code · Copilot · Agent Harnesses · Spec-Driven Development  
+**Web3:** Solidity · EVM · Foundry · Ethers.js · Slither  
+**Frontend:** React · Next.js · Tailwind CSS
 
 ---
 
-## 📬 Contact
+## Connect
 
-LinkedIn: linkedin.com/in/wesleymassine
+[LinkedIn](https://linkedin.com/in/wesleymassine)
