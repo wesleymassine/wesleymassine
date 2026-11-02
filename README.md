@@ -13,6 +13,7 @@ Event-driven microservices, real-time trading infrastructure, resilient payment 
 — Go, Python (FastAPI/asyncio), Kafka, Redis Streams, gRPC, WebSockets, PostgreSQL, Kubernetes, GCP/AWS, OpenTelemetry.
 
 **Full-Stack AI Product Engineer** 
+
 React, Next.js, Vite, TypeScript, Tailwind CSS
 
 **Web3 & Smart Contract Engineering**  
