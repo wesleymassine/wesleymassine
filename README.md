@@ -1,6 +1,7 @@
 # Wesley Santos
 
-Senior Backend Engineer | Blockchain Developer | Full-Stack AI Product Engineer | Golang · Rust · Python · Nodejs · Typescript · Solidity ·
+Senior Backend Engineer | Blockchain Developer | Full-Stack AI Product Engineer | Golang · Rust · Python · Nodejs · Typescript · Solidity
+
 12+ years building high-throughput production systems in fintech, trading platforms and crypto infrastructure.
 
 ---
