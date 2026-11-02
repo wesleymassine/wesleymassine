@@ -1,6 +1,6 @@
 # Wesley Santos
 
-Senior Backend Engineer — Distributed Systems — Agentic software development | Golang · Python · Node.js · Web3  
+Senior Backend Engineer | Blockchain Developer | Full-Stack AI Product Engineer | Golang · Rust · Python · Nodejs · Typescript · Solidity
 12+ years building high-throughput production systems in fintech, trading platforms and crypto infrastructure.
 
 ---
@@ -10,6 +10,9 @@ Senior Backend Engineer — Distributed Systems — Agentic software development
 **Distributed Systems & Backend**  
 Event-driven microservices, real-time trading infrastructure, resilient payment systems 
 — Go, Python (FastAPI/asyncio), Kafka, Redis Streams, gRPC, WebSockets, PostgreSQL, Kubernetes, GCP/AWS, OpenTelemetry.
+
+**Full-Stack AI Product Engineer** 
+React, Next.js, Vite, TypeScript, Tailwind CSS
 
 **Web3 & Smart Contract Engineering**  
 On-chain infrastructure and EVM/Solidity
@@ -48,7 +51,7 @@ Complete smart contract implementation with:
 
 ## 🛠️ Stack
 
-**Primary:** Go · Python (FastAPI, asyncio) · Node.js / TypeScript  
+**Main Stack:** Go · Python (FastAPI, asyncio) · Node.js / TypeScript  
 **Messaging & Streaming:** Kafka · Redis Streams · RabbitMQ · gRPC  
 **Data:** PostgreSQL · BigQuery · Elasticsearch · Redis  
 **Cloud & Infra:** GCP (GKE, Pub/Sub) · AWS (ECS, SQS/SNS) · Kubernetes · Docker  
