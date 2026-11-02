@@ -1,8 +1,8 @@
 # Wesley Santos
 
-Senior Backend Engineer | Blockchain Developer | Full-Stack AI Product Engineer | Golang · Rust · Python · Nodejs · Typescript · Solidity
+Senior Backend Engineer | Blockchain Developer | Full-Stack AI Product Engineer | Golang · Python · Nodejs · Typescript · Rust · Solidity
 
-12+ years building high-throughput production systems in fintech, trading platforms and crypto infrastructure.
+12+ years building high-throughput production systems in fintech, trading platforms, crypto infrastructure and blockchain integration.
 
 ---
 
@@ -14,7 +14,7 @@ Event-driven microservices, real-time trading infrastructure, resilient payment 
 
 **Full-Stack AI Product Engineer** 
 UI/UX
-- React, Next.js, Vite, TypeScript, Tailwind CSS
+React, Next.js, Vite, TypeScript, Tailwind CSS
 
 **Web3 & Smart Contract Engineering**  
 On-chain infrastructure and EVM/Solidity
@@ -58,7 +58,7 @@ Complete smart contract implementation with:
 **Data:** PostgreSQL · BigQuery · Elasticsearch · Redis  
 **Cloud & Infra:** GCP (GKE, Pub/Sub) · AWS (ECS, SQS/SNS) · Kubernetes · Docker  
 **Observability:** OpenTelemetry · Prometheus · Grafana  
-**Web3:** Solidity · EVM · Foundry · Ethers.js  
+**Web3:** Solidity · Rust · EVM · Foundry · Ethers.js  
 
 ---
 
