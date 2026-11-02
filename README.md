@@ -10,7 +10,7 @@ Senior Backend Engineer | Blockchain Developer | Full-Stack AI Product Engineer 
 
 **Distributed Systems & Backend**  
 Event-driven microservices, real-time trading infrastructure, resilient payment systems 
-— Go, Python (FastAPI/asyncio), Kafka, Redis Streams, gRPC, WebSockets, PostgreSQL, Kubernetes, GCP/AWS, OpenTelemetry.
+— Go, Python (FastAPI/asyncio), Kafka, Redis, gRPC, WebSockets, PostgreSQL, Kubernetes, GCP/AWS, OpenTelemetry.
 
 **Full-Stack AI Product Engineer**  
 UI/UX
