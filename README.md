@@ -27,7 +27,7 @@ Reusable development workflow for AI coding agents, combining specifications, te
 Event-driven trading architecture with microservices, Redis Streams, WebSockets, and TypeScript.
 
 **[RWA Security Token — Solidity & Foundry](https://github.com/wesleymassine/rwa-security-token-foundry)**  
-Educational implementations inspired by ERC-3643 and ERC-1400, covering identity, compliance, tokenization, and smart contract testing.
+RWA implementations inspired by ERC-3643 and ERC-1400, covering identity, compliance, tokenization, and smart contract testing.
 
 **[Solidity Reference](https://github.com/wesleymassine/solidity-reference)**  
 A practical Solidity/EVM reference covering development patterns, security, testing, and gas optimization.
