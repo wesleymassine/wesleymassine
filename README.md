@@ -49,7 +49,8 @@ A practical Solidity/EVM reference covering development patterns, security, test
 **Observability:** OpenTelemetry · Prometheus · Grafana  
 **AI Engineering:** Claude Code · Copilot · Agent Harnesses · Spec-Driven Development  
 **Web3:** Solidity · EVM · Foundry · Ethers.js · Slither  
-**Frontend:** React · Next.js · Tailwind CSS
+**Frontend:** React · Next.js · Vite · Tailwind CSS
+
 
 ---
 
