@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer | Distributed Systems & Fintech | AI-Assisted Engineering | Go · Python · TypeScript | Web3 Infrastructure**
 
-Senior Software Engineer with 12+ years of experience, including six years building distributed financial systems, trading platforms, payment services, and crypto infrastructure.
+Senior Software Engineer with 14+ years of experience, including six years building distributed financial systems, trading platforms, payment services, and crypto infrastructure.
 
 I focus on building reliable, scalable systems and applying modern AI-assisted engineering practices to software development.
 
